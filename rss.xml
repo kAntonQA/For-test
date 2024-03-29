@@ -11,7 +11,8 @@
             <g:link>https://shop.fourthwall.com/products/fourthwall-flower-tee</g:link>
             <g:image_link>https://cdn.shopify.com/s/files/1/0615/4249/8554/products/Hockey_20Net-34c55aaf-c15d-414a-a134-7cb33e0e50b1.jpg?v=1649985264</g:image_link>
             <g:brand>Tech Master</g:brand>
-            <g:price>444444444 USD</g:price>
+            <g:price>10999.00 USD</g:price>
+            <g:sale_price>99.00 USD</g:sale_price>
             <g:availability>in stock</g:availability>
         </item>
 
@@ -23,6 +24,7 @@
             <g:image_link>https://cdn.shopify.com/s/files/1/0615/4249/8554/products/Hockey_20Net-34c55aaf-c15d-414a-a134-7cb33e0e50b1.jpg?v=1649985264</g:image_link>
             <g:brand>Tech Master</g:brand>
             <g:price>444444444 USD</g:price>
+            <g:sale_price>99.00 USD</g:sale_price>
             <g:availability>in stock</g:availability>
         </item>
         
@@ -34,6 +36,7 @@
             <g:image_link>https://enterprise-dev-ext-store.dev-shoprz.live/media/catalog/product//x/b/xbox_fc_1.jpg</g:image_link>
             <g:brand>Tech Master</g:brand>
             <g:price>149.99 USD</g:price>
+            <g:sale_price>99.00 USD</g:sale_price>
             <g:availability>in stock</g:availability>
         </item>
         
@@ -45,6 +48,7 @@
             <g:image_link>https://enterprise-dev-ext-store.dev-shoprz.live/media/catalog/product//2/0/20009351-f10c4bf0.jpg</g:image_link>
             <g:brand>Tech Master</g:brand>
             <g:price>299.99 USD</g:price>
+            <g:sale_price>99.00 USD</g:sale_price>
             <g:availability>in stock</g:availability>
         </item>
         
@@ -56,6 +60,7 @@
             <g:image_link>https://cdn.shopify.com/s/files/1/0692/4992/5408/products/dev-shoprz.78651.cust.original.jpg?v=1700820784</g:image_link>
             <g:brand>Tech Master</g:brand>
             <g:price>999.99 USD</g:price>
+            <g:sale_price>99.00 USD</g:sale_price>
             <g:availability>in stock</g:availability>
         </item>
 
@@ -67,6 +72,7 @@
             <g:image_link>https://cdn.shopify.com/s/files/1/0692/4992/5408/products/dev-shoprz.78831.cust.original.jpg?v=1700821335</g:image_link>
             <g:brand>Tech Master</g:brand>
             <g:price>999.99 USD</g:price>
+            <g:sale_price>99.00 USD</g:sale_price>
             <g:availability>in stock</g:availability>
         </item>
         
