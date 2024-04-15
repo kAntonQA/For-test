@@ -3,18 +3,6 @@
         <g:title>Electronics Emporium</g:title>
         <g:link>http://www.electronicsemporium.com</g:link>
         <g:description>Find the latest gadgets and electronics at great prices!</g:description>
-        
-        <item>
-            <g:id>Product2124234</g:id>
-            <g:title>new title111111</g:title>
-            <g:description>Experience the power of Smartphone X with its advanced features and sleek design.</g:description>
-            <g:link>https://shop.fourthwall.com/products/fourthwall-flower-tee</g:link>
-            <g:image_link>https://cdn.shopify.com/s/files/1/0615/4249/8554/products/Hockey_20Net-34c55aaf-c15d-414a-a134-7cb33e0e50b1.jpg?v=1649985264</g:image_link>
-            <g:brand>Tech Master</g:brand>
-            <g:price>10999.00 USD</g:price>
-            <g:sale_price>99.00 USD</g:sale_price>
-            <g:availability>in stock</g:availability>
-        </item>
 
         <item>
             <g:id>Pr12312312334</g:id>
