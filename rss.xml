@@ -1,68 +1,87 @@
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
-    <channel>
-        <g:title>Electronics Emporium</g:title>
-        <g:link>http://www.electronicsemporium.com</g:link>
-        <g:description>Find the latest gadgets and electronics at great prices!</g:description>
-
-        <item>
-            <g:id>Pr12312312334</g:id>
-            <g:title>222</g:title>
-            <g:description>Experience the power of Smartphone X with its advanced features and sleek design.</g:description>
-            <g:link>https://shop.fourthwall.com/products/fourthwall-flower-tee</g:link>
-            <g:image_link>https://cdn.shopify.com/s/files/1/0615/4249/8554/products/Hockey_20Net-34c55aaf-c15d-414a-a134-7cb33e0e50b1.jpg?v=1649985264</g:image_link>
-            <g:brand>Tech Master</g:brand>
-            <g:price>44 USD</g:price>
-            <g:sale_price>11 USD</g:sale_price>
-            <g:availability>in stock</g:availability>
-        </item>
-        
-        <item>
-            <g:id>1231231234234</g:id>
-            <g:title>333</g:title>
-            <g:description>Enjoy crystal-clear sound and wireless convenience with our Wireless Headphones Pro.</g:description>
-            <g:link>https://shop.fourthwall.com/products/fourthwall-flower-tee</g:link>
-            <g:image_link>https://enterprise-dev-ext-store.dev-shoprz.live/media/catalog/product//x/b/xbox_fc_1.jpg</g:image_link>
-            <g:brand>Tech Master</g:brand>
-            <g:price>149.99 USD</g:price>
-            <g:sale_price>22.00 USD</g:sale_price>
-            <g:availability>in stock</g:availability>
-        </item>
-        
-        <item>
-            <g:id>2345234523454324234</g:id>
-            <g:title>444</g:title>
-            <g:description>Stay connected and track your fitness goals with Smartwatch Z, your perfect companion.</g:description>
-            <g:link>https://shop.fourthwall.com/products/lax-poz-tee-2</g:link>
-            <g:image_link>https://enterprise-dev-ext-store.dev-shoprz.live/media/catalog/product//2/0/20009351-f10c4bf0.jpg</g:image_link>
-            <g:brand>Tech Master</g:brand>
-            <g:price>299.99 USD</g:price>
-            <g:sale_price>99.00 USD</g:sale_price>
-            <g:availability>in stock</g:availability>
-        </item>
-        
-        <item>
-            <g:id>345634563456</g:id>
-            <g:title>555</g:title>
-            <g:description>Transform your viewing experience with our 4K Ultra HD TV, featuring stunning clarity and vivid colors.</g:description>
-            <g:link>https://shop.fourthwall.com/products/heart-joggers-975mpr</g:link>
-            <g:image_link>https://cdn.shopify.com/s/files/1/0692/4992/5408/products/dev-shoprz.78651.cust.original.jpg?v=1700820784</g:image_link>
-            <g:brand>Tech Master</g:brand>
-            <g:price>999.99 USD</g:price>
-            <g:sale_price>99.00 USD</g:sale_price>
-            <g:availability>in stock</g:availability>
-        </item>
-
-        <item>
-            <g:id>34561237653</g:id>
-            <g:title>666</g:title>
-            <g:description>Transform your viewing experience with our 4K Ultra HD TV, featuring stunning clarity and vivid colors.</g:description>
-            <g:link>https://shop.fourthwall.com/products/global-hoodie-ls14001</g:link>
-            <g:image_link>https://cdn.shopify.com/s/files/1/0692/4992/5408/products/dev-shoprz.78831.cust.original.jpg?v=1700821335</g:image_link>
-            <g:brand>Tech Master</g:brand>
-            <g:price>999.99 USD</g:price>
-            <g:sale_price>99.00 USD</g:sale_price>
-            <g:availability>in stock</g:availability>
-        </item>
-        
-    </channel>
+<script/>
+<channel>
+<g:title>
+<![CDATA[ Maxmaloshtan ]]>
+</g:title>
+<g:link>https://maxmaloshtan-shop.fourthwall.com</g:link>
+<g:description>
+<![CDATA[ Maxmaloshtan ]]>
+</g:description>
+<item>
+<g:id>918a9037-49e9-4631-a359-aeff6a144d0a</g:id>
+<g:title>
+<![CDATA[ DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDx ]]>
+</g:title>
+<g:description>
+<![CDATA[ 6.5 OZ./YD² (US) 10.8 OZ./L YD (CA), (SOLID & HEATHER) 52/48 AIRLUME COMBED AND RINGSPUN COTTON/POLYESTER, 32 SINGLES ATHLETIC HEATHER IS 90/10 COMBED AND RINGSPUN COTTON/ POLYESTER FLEECE TRIBLENDS ARE 8.2 OZ./YD², 50/37.5/12.5 POLYESTER/AIRLUME COMBED AND RINGSPUN COTTON/RAYON, 32 SINGLES MARBLES ARE 6.5 OZ./YD², 85/15 AIRLUME COMBED AND RINGSPUN COTTON/POLYESTER, 32 SINGLES ACID WASH IS 7.3 OZ./YD², 60/40 AIRLUME COMBED AND RINGSPUN COTTON/POLYESTER, 32 SINGLES ]]>
+</g:description>
+<g:link>https://maxmaloshtan-shop.fourthwall.com/products/new-product</g:link>
+<g:image_link>https://cdn.fourthwall.com/offer/sh_f1f9e092-2145-4be6-8d66-bf9abd91417d/f522596a-a53f-4653-b2a3-298d65f3c6af.webp</g:image_link>
+<g:availability>in stock</g:availability>
+<g:quantity>9999</g:quantity>
+<g:price>30.00 USD</g:price>
+<g:brand>
+<![CDATA[ Maxmaloshtan ]]>
+</g:brand>
+<g:mpn>HCBK-DBT0000</g:mpn>
+<g:youtube_store_name>Maxmaloshtan</g:youtube_store_name>
+<g:shipping_weight>10.00 oz</g:shipping_weight>
+<g:age_group>adult</g:age_group>
+<g:gender>unisex</g:gender>
+<g:adult>no</g:adult>
+<g:is_bundle>no</g:is_bundle>
+<g:condition>new</g:condition>
+</item>
+<item>
+<g:id>65367510-b675-4a30-8aff-d454b4fafe49</g:id>
+<g:title>
+<![CDATA[ Fourthwall Smiley Crewneck ]]>
+</g:title>
+<g:description>
+<![CDATA[ 100% COTTON FACE 65% COTTON, 35% POLYESTER CHARCOAL HEATHER IS 55% COTTON, 45% POLYESTER HEAVYWEIGHT FABRIC: 8.5 OZ/Y² (288.2 G/M²) REGULAR FIT ]]>
+</g:description>
+<g:link>https://maxmaloshtan-shop.fourthwall.com/products/new-product-2</g:link>
+<g:image_link>https://cdn.fourthwall.com/offer/sh_f1f9e092-2145-4be6-8d66-bf9abd91417d/6e599c86-529f-4989-b987-1ca0d25568b0.webp</g:image_link>
+<g:availability>in stock</g:availability>
+<g:quantity>9999</g:quantity>
+<g:price>30.00 USD</g:price>
+<g:brand>
+<![CDATA[ Maxmaloshtan ]]>
+</g:brand>
+<g:mpn>H2XS-2KB0000</g:mpn>
+<g:youtube_store_name>Maxmaloshtan</g:youtube_store_name>
+<g:shipping_weight>10.00 oz</g:shipping_weight>
+<g:age_group>adult</g:age_group>
+<g:gender>unisex</g:gender>
+<g:adult>no</g:adult>
+<g:is_bundle>no</g:is_bundle>
+<g:condition>new</g:condition>
+</item>
+<item>
+<g:id>04fcd4d7-abed-4460-943c-bbb877b6e1af</g:id>
+<g:title>
+<![CDATA[ Global Hoodie [LS14001] ]]>
+</g:title>
+<g:description>
+<![CDATA[ GO GLOBAL. PRINTED ON LANE SEVEN'S HIGH-QUALITY, STREETWEAR-FOCUSED COTTON HOODIE (LS14001). FITS AS EXPECTED FOR A UNISEX HOODIE. ]]>
+</g:description>
+<g:link>https://maxmaloshtan-shop.fourthwall.com/products/new-product-3</g:link>
+<g:image_link>https://cdn.fourthwall.com/offer/sh_f1f9e092-2145-4be6-8d66-bf9abd91417d/12a18f38-762d-497d-8c3a-df7285953abb.webp</g:image_link>
+<g:availability>in stock</g:availability>
+<g:quantity>9999</g:quantity>
+<g:price>30.00 USD</g:price>
+<g:brand>
+<![CDATA[ Maxmaloshtan ]]>
+</g:brand>
+<g:mpn>HXLX-PST0000</g:mpn>
+<g:youtube_store_name>Maxmaloshtan</g:youtube_store_name>
+<g:shipping_weight>10.00 oz</g:shipping_weight>
+<g:age_group>adult</g:age_group>
+<g:gender>unisex</g:gender>
+<g:adult>no</g:adult>
+<g:is_bundle>no</g:is_bundle>
+<g:condition>new</g:condition>
+</item>
+</channel>
 </rss>
