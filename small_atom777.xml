@@ -1,0 +1,35 @@
+<feed xmlns:g="http://base.google.com/ns/1.0">
+    <title>Example - deliverables Store</title>
+    <link rel="self" href="http://www.example.com" />
+    <entry>
+        <g:id>QOJ9daZ0AwIgcGfn</g:id>
+        <g:title>Oriental Concrete Keyboard</g:title>
+        <g:description>The Football Is Good For Training And Recreational Purposes</g:description>
+        <g:link>https://www.google.com/search?q=Oriental+Concrete+Keyboard</g:link>
+        <g:image_link>https://picsum.photos/seed/urFKB/640/480</g:image_link>
+        <g:condition>new</g:condition>
+        <g:availability>out of stock</g:availability>
+        <g:price>285.00 USD</g:price>
+    </entry>
+    <entry>
+        <g:id>8lKEaiAFKFWO4Htd</g:id>
+        <g:title>Oriental Concrete Keyboard</g:title>
+        <g:description>The Football Is Good For Training And Recreational Purposes</g:description>
+        <g:link>https://www.google.com/search?q=Oriental+Concrete+Keyboard</g:link>
+        <g:image_link>https://picsum.photos/seed/urFKB/640/480</g:image_link>
+        <g:condition>new</g:condition>
+        <g:availability>out of stock</g:availability>
+        <g:price>285.00 USD</g:price>
+    </entry>    
+    <entry>
+        <g:id>FTcLYw1RRqIMbVkI</g:id>
+        <g:title>Unbranded Granite Computer</g:title>
+        <g:description>The Nagasaki Lander is the trademarked name of several series of Nagasaki
+            sport bikes, that started with the 1984 ABC800J</g:description>
+        <g:link>https://www.google.com/search?q=Unbranded+Granite+Computer</g:link>
+        <g:image_link>https://picsum.photos/seed/tybt4xx/640/480</g:image_link>
+        <g:condition>used</g:condition>
+        <g:availability>out of stock</g:availability>
+        <g:price>859.00 USD</g:price>
+    </entry>
+</feed>
