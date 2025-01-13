@@ -9,7 +9,7 @@
         <g:image_link>https://picsum.photos/seed/urFKB/640/480</g:image_link>
         <g:condition>new</g:condition>
         <g:availability>out of stock</g:availability>
-        <g:price>285.00 USD</g:price>
+        <g:price currency="ILS">285.00</g:price>
     </entry>
     <entry>
         <g:id>8lKEaiAFKFWO4Htd</g:id>
@@ -19,7 +19,7 @@
         <g:image_link>https://picsum.photos/seed/urFKB/640/480</g:image_link>
         <g:condition>new</g:condition>
         <g:availability>out of stock</g:availability>
-        <g:price>285.00 USD</g:price>
+        <g:price currency="ILS">285.00</g:price>
     </entry>    
     <entry>
         <g:id>FTcLYw1RRqIMbVkI</g:id>
@@ -30,6 +30,6 @@
         <g:image_link>https://picsum.photos/seed/tybt4xx/640/480</g:image_link>
         <g:condition>used</g:condition>
         <g:availability>out of stock</g:availability>
-        <g:price>859.00 USD</g:price>
+        <g:price currency="ILS">859.00</g:price>
     </entry>
 </feed>
